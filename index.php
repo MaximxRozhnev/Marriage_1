@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Юрий и Татьяна. Приглашение на свадьбу.</title>
+  <title>Имя и Имя. Приглашение на свадьбу.</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
   <link href="//fonts.googleapis.com/css?family=Comfortaa&amp;subset=latin,cyrillic" rel="stylesheet" type="text/css">
   <style>
@@ -763,9 +763,9 @@
 
               <div class="text-wrapper">
                 <p class="contacts-text">
-                    Жених: 8-908-208-3018
+                    Жених: номер
                     <br>
-                    Невеста: 8-906-952-1737
+                    Невеста: номер
                 </p>
             </div>
 
@@ -896,10 +896,5 @@ document.getElementById('surveyForm').addEventListener('submit', function(e) {
     alert("Спасибо за ответ");
 });
 </script>
-
-
-
-    
-
 </body>
 </html>
